@@ -1,4 +1,5 @@
 #https://zerojudge.tw/ShowProblem?problemid=q181
+
 a,b = map(int,input().split())
 n = int(input())
 z = a + b
